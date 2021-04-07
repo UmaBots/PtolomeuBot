@@ -38,3 +38,16 @@ stories:
   - action: utter_greet
   - intent: bot_challenge
   - action: utter_iamabot
+- story: Story from Conversation ID c633491161bf4c48b340207a005f4b3e
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: bot_challenge
+  - action: utter_iamabot
+  - intent: mood_great
+  - action: utter_happy
+  - intent: bot_challenge
+  - action: utter_iamabot
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help

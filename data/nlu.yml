@@ -79,6 +79,7 @@ nlu:
     - extremly sad
     - so saad
     - so sad
+    - and what else
 - intent: bot_challenge
   examples: |
     - are you a bot?
