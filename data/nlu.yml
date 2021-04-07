@@ -63,6 +63,7 @@ nlu:
     - so good
     - so perfect
     - great!
+    - good
 - intent: mood_unhappy
   examples: |
     - my day was horrible
@@ -87,3 +88,4 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
     - fine and you
+    - what do you do
